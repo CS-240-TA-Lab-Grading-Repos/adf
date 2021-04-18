@@ -1,0 +1,2 @@
+I am a song from working directory
+not a song from input directory

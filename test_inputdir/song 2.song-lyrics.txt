@@ -1,0 +1,4 @@
+first line of song 2.
+second line of song 2.
+third line of song 2.
+last line of song 2.

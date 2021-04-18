@@ -1,0 +1,6 @@
+Bleep the following bad words.
+I am the first badword1
+I am number five badword5
+I am number seven badword7
+I am number eight badword8
+
